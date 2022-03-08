@@ -1,7 +1,7 @@
 
-var to = 'Bích Đào!!!';
-var gift_url = 'http://BichDao.vn';
-var gift_image_url = 'bichdao1.jpg';
+var to = 'Bich Phuong!!!';
+var gift_url = 'http://BichPhuong.vn';
+var gift_image_url = 'bichphuong.jpg';
 
 
 
